@@ -8,7 +8,7 @@
       "SmtpKey": "ABC123"
     },
     {
-      "Version": "0.1",
+      "Version": "0.2",
       "SmtpHost": "smtp.gmail.com",
       "SmtpPort": "d",
       "SmtpUser": "tanapat031@gmail.com",
