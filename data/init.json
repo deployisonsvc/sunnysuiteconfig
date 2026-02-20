@@ -2,14 +2,16 @@
   "smtpWebMail": [
     {
       "Version": "0.1",
-      "SmtpHost": "b",
+      "SmtpHost": "smtp.gmail.com",
       "SmtpPort": "d",
+      "SmtpUser": "d",
       "SmtpKey": "ABC123"
     },
     {
-      "Version": "0.2",
-      "SmtpHost": "tanapat031@gmail.com",
-      "SmtpPort": "587",
+      "Version": "0.1",
+      "SmtpHost": "smtp.gmail.com",
+      "SmtpPort": "d",
+      "SmtpUser": "tanapat031@gmail.com",
       "SmtpKey": "ABC123"
     }
   ]
