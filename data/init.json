@@ -1,1 +1,7 @@
-
+{
+  "object": {
+    "SmtpHost": "b",
+    "SmtpPort": "d",
+    "SmtpKey" : "ABC123"
+  }
+}
