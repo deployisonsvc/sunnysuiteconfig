@@ -1,7 +1,16 @@
 {
-  "object": {
-    "SmtpHost": "b",
-    "SmtpPort": "d",
-    "SmtpKey" : "ABC123"
-  }
+  "smtpWebMail": [
+    {
+      "Version": "0.1",
+      "SmtpHost": "b",
+      "SmtpPort": "d",
+      "SmtpKey": "ABC123"
+    },
+    {
+      "Version": "0.2",
+      "SmtpHost": "tanapat031@gmail.com",
+      "SmtpPort": "587",
+      "SmtpKey": "ABC123"
+    }
+  ]
 }
