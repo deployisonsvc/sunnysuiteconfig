@@ -10,7 +10,7 @@
     {
       "Version": "0.2",
       "SmtpHost": "smtp.gmail.com",
-      "SmtpPort": "d",
+      "SmtpPort": "587",
       "SmtpUser": "tanapat031@gmail.com",
       "SmtpKey": "ABC123"
     }
